@@ -2,12 +2,12 @@
 
 ## Instalace projektu
 ```
-yarn install
+npm install
 ```
 
 ### Spuštění webserveru projektu
 ```
-yarn serve
+npm run serve
 ```
 
 
